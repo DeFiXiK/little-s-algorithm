@@ -2,7 +2,7 @@ from typing import *
 from copy import deepcopy
 
 
-class Cell(object):
+class Cell:
 
     row: int = 0
     column: int = 0
